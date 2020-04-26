@@ -1,3 +1,11 @@
+//https://zh-hant.reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial
+//npm start
+//TODO
+//1.use (r,c) for history button names
+//2.history clicked->bold font
+//3.winner highlight square on board
+//4.display draw
+
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
